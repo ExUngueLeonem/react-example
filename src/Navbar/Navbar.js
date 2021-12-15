@@ -4,6 +4,7 @@ const Navbar = () => {
     return (
         <div>
             Navbar
+            массив ul/li 
         </div>
     );
 };
